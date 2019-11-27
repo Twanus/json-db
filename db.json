@@ -1,0 +1,121 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "voornaam": "Kristoff",
+            "achternaam": "Broos",
+            "geluksgetal": 0,
+            "isAanwezig": "true",
+            "companyId": "1"
+        },
+        {
+            "id": "2",
+            "voornaam": "Redginald",
+            "achternaam": "",
+            "geluksgetal": 0,
+            "isAanwezig": "true",
+            "companyId": "1"
+        },
+        {
+            "id": "3",
+            "voornaam": "Lucas",
+            "achternaam": "",
+            "geluksgetal": 0,
+            "isAanwezig": true,
+            "companyId": "1"
+        },
+        {
+            "id": "4",
+            "voornaam": "Marnix",
+            "achternaam": "",
+            "geluksgetal": 0,
+            "isAanwezig": true,
+            "companyId": "1"
+        },
+        {
+            "id": "5",
+            "voornaam": "Jente",
+            "achternaam": "",
+            "geluksgetal": 0,
+            "isAanwezig": true,
+            "companyId": "1"
+        },
+        {
+            "id": "6",
+            "voornaam": "Thomas",
+            "achternaam": "",
+            "geluksgetal": 0,
+            "isAanwezig": true,
+            "companyId": "1"
+        },
+        {
+            "id": "7",
+            "voornaam": "Ruben",
+            "achternaam": "",
+            "geluksgetal": 0,
+            "isAanwezig": true,
+            "companyId": "1"
+        },
+        {
+            "id": "8",
+            "voornaam": "Phillipus",
+            "achternaam": "",
+            "geluksgetal": 0,
+            "isAanwezig": true,
+            "companyId": "1"
+        },
+        {
+            "id": "9",
+            "voornaam": "Jarre",
+            "achternaam": "",
+            "geluksgetal": 0,
+            "isAanwezig": true,
+            "companyId": "1"
+        },
+        {
+            "id": "10",
+            "voornaam": "Antoon",
+            "achternaam": "",
+            "geluksgetal": 0,
+            "isAanwezig": true,
+            "companyId": "1"
+        },
+        {
+            "id": "11",
+            "voornaam": "Erik",
+            "achternaam": "",
+            "geluksgetal": 0,
+            "isAanwezig": true,
+            "companyId": "1"
+        },
+        {
+            "id": "12",
+            "voornaam": "Jan",
+            "achternaam": "",
+            "geluksgetal": 0,
+            "isAanwezig": true
+        }
+    ], 
+    "companies": [
+        {
+            "id": "1",
+            "name": "apple",
+            "description": "apple, stupid"
+        },
+        {
+            "id": "2",
+            "name": "google",
+            "description": "are you cerial?"
+        },
+        {
+            "id": "3",
+            "name": "facebook",
+            "description": "ok boomer"
+        },
+        {
+            "id": "4",
+            "name": "Some other BIG IT company",
+            "description": "is het al 4 uur"
+        }
+    ]
+}
